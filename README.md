@@ -5,6 +5,7 @@ Welcome to my comprehensive web development repository! This project serves as a
 ---
 
 ## 📂 Featured Projects & Modules
+https://chhipachetan1-lab.github.io/Assignment/
 
 Here is a breakdown of the core modules included in this portfolio:
 
@@ -25,7 +26,7 @@ Here is a breakdown of the core modules included in this portfolio:
 
 * **HTML5** (Semantic markup & document structure)
 * **CSS3** (Styling, Flexbox, Animations, Responsive Design)
-* **JavaScript** (Interactive UI elements where applicable)
+
 
 ---
 
